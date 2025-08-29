@@ -1,4 +1,4 @@
-# My Azure Fundamentals (AZ-900) Notes
+# Azure Fundamentals (AZ-900) Notes
 
 ---
 
