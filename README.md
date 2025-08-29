@@ -1,7 +1,5 @@
 # ☁️ Azure Fundamentals (AZ-900) – Quick Guide
 
-> **Portal:** [portal.azure.com](https://portal.azure.com)  
-> **Course:** [Microsoft Learn AZ-900](https://learn.microsoft.com/en-us/training/courses/az-900t00)
 
 ---
 
