@@ -1,10 +1,5 @@
 # My Azure Fundamentals (AZ-900) Notes
 
-> Based on the Microsoft Learn AZ-900T00 course
-
-**Main Portal:** [portal.azure.com](https://portal.azure.com)
-**Course Link:** [Microsoft Learn](https://learn.microsoft.com/en-us/training/courses/az-900t00)
-
 ---
 
 ## 1. What is Cloud Computing?
