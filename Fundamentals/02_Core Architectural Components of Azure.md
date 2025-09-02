@@ -1,11 +1,3 @@
-# 🌐 Core Architectural Components of Azure
-
----
-
-> **Level:** Beginner  
-> **Role Targeted:** Administrator | Developer | DevOps | Architect  
-> **Duration:** ~48 mins  
-> **Exam Focus:** AZ-104, AZ-305  
 
 ---
 
